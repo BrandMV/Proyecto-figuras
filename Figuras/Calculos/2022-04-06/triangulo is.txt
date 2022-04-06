@@ -1,0 +1,6 @@
+Figura: Triangulo isosceles
+Lados: 3.000000cm
+Base: 2.000000cm
+Altura: 2.828427cm
+Área: 2.828427cm2
+Perímetro: 8.000000cm

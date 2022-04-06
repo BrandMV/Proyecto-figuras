@@ -1,0 +1,5 @@
+Figura: Triangulo equilatero
+Lados: 32.000000cm
+Altura: 27.712813cm
+Área: 443.405007cm2
+Perímetro: 96.000000cm

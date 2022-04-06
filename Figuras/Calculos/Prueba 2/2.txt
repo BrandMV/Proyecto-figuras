@@ -1,0 +1,5 @@
+Figura: Circulo
+Diámetro: 4.000000cm
+Radio: 2.000000cm
+Área: 12.566371cm2
+Perímetro: 12.566371cm

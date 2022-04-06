@@ -1,0 +1,4 @@
+Figura: Cuadrado
+Lados: 1.000000cm
+Área: 1.000000cm2
+Perímetro: 4.000000cm
